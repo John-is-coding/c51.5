@@ -1,0 +1,35 @@
+h1{
+    color:rgb(145, 0, 77)
+}
+{
+    border:solid
+}
+.header{
+    background-color: FFBCE5;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: BCFCFF;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: F0EE77;
+    display:flex;
+justify-content:space-around;
+}
+p, h4{
+    color: black;
+    text-align: center;
+}
+.item{
+    background-color: 108B90;
+    
+}
+.strengths{
+    background-color: 77EEF0;
+}
+.johns_facts{
+    background-color: EF1090;
+}
